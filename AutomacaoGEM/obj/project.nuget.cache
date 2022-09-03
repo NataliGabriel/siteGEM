@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxkrR88KkKNYJV8XogatIhLz2O7J65D9f09xo6h8LHG0ELACxQ5DOiLhVAgSOItSkSKebYJVzfVhtpK9+X/Z8g==",
+  "success": true,
+  "projectFilePath": "D:\\GestaoGEM\\AutomacaoGEM\\AutomacaoGEM\\AutomacaoGEM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\selenium.internetexplorer.webdriver\\3.150.1\\selenium.internetexplorer.webdriver.3.150.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
